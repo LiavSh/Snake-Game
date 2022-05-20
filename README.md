@@ -1,3 +1,5 @@
+![](snake_game.gif)
+
 # Python3 Project: Snake-Game
 ## About
 The goal of the project is to build a simple game in the Python language,
@@ -18,10 +20,9 @@ The game will open in a new window
 
 ## Game controls
 `w`  - moving up
-w
+
 `s` - moving down
 
 `d`  - moving right
 
 `a` - moving left
-
